@@ -4,6 +4,7 @@ This repository contains an end-to-end pipeline for **sentiment and semantic ana
 
 The project focuses on low-resource language challenges and explores how **textual content, emojis, confidence thresholds, and semantic structure** interact in sentiment analysis.
 
+Colab link: https://colab.research.google.com/drive/1zHDvrQ0koQQD_smZpbQEdu96OaSINqnv?usp=sharing
 ---
 
 ## Project Objectives
